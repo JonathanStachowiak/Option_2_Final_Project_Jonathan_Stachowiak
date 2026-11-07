@@ -8,3 +8,4 @@ ipykernel
 python-dotenv
 setuptools<81
 haversine
+DuckDB
